@@ -3,6 +3,7 @@
 This guide provides a comprehensive overview of two popular Python libraries for data visualization: **Matplotlib** and **Pandas**. It includes descriptions of the different types of plots available in each library, practical use cases, and code examples.
 
 ## 🔹 Matplotlib Overview
+[Matplotlib Quick Start Guide](https://matplotlib.org/stable/users/explain/quick_start.html#quick-start)
 
 **Matplotlib** is a powerful library for creating static, animated, and interactive visualizations in Python.
 
@@ -48,6 +49,8 @@ plt.title("Pie Chart")
 plt.show()
 
 ## 🔹 Pandas Overview
+[Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
+
 
 **Pandas** is primarily used for data manipulation but also provides convenient visualization functions through its `.plot()` method (which uses Matplotlib underneath).
 
